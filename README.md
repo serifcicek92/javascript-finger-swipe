@@ -1,2 +1,2 @@
 # javascript-finger-swipe
-javascript finger swipe code basic
+javascript finger swipe code basic mobile
